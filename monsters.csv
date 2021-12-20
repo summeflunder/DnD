@@ -23,5 +23,5 @@ First-Year-Student,medium,humanoid,neutral,100,Necromancy
 War Ostrich,big,animal,chaotic neutral,120,Abjuration
 Herbert,medium,humanoid,righteous good, 120,Transmutation
 Ambush Drake,bid,dragon,righteous good, 150,Conjuration
-Metallic Greatwyrm,gigantic,righteous good, 28120000,Necromancy
-Alsikaya,gigantic,chaotic bad, 27150000,Transmutation
+Metallic Greatwyrm,gigantic,dragon,righteous good, 28120000,Necromancy
+Alsikaya,gigantic,fiend,chaotic bad, 27150000,Transmutation
