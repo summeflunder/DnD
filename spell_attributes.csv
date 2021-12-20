@@ -1,4 +1,4 @@
-name,casting_time,range,components,class,id
+name,casting_time,span,components,class,id
 Spiritual Weapon,2,60,Verbal,Cleric,624090
 Blazing Thunderbolt Strike,2,Self,Verbal,Paladin,624254		
 Acid Ward,1,Self,Material,Sorcerer,624236		
