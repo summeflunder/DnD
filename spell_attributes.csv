@@ -15,7 +15,7 @@ Cold Snap,1,60,Somatic,Wizard,624515
 Combustion,1,Self,Somatic,Druid,624516		
 Cyclone,3,120,Verbal,Sorcerer,624524	
 Cyclone Strike,1,10,Material,Ranger,624526
-Chill Touch,1, 120,,Verbal,Warlock,624087
+Chill Touch,1,120,Verbal,Warlock,624087
 Chain Lightning,1,150,Somatic,Wizard,624093		
 Contingency,4,Self,Verbal,Wizard,624094	
 Snare,2,Touch,Material,Ranger,625261
