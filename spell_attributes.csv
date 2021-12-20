@@ -1,14 +1,14 @@
 name,casting time(action),range(feet),components,class,id
-Incendiary Cloud,1, 150,Verbal,Wizard,624084		
-Gate,1, 60 ,Somatic,Sorcerer,624084	
 Spiritual Weapon,2,60,Verbal,Cleric,624090
 Blazing Thunderbolt Strike,2,Self,Verbal,Paladin,624254		
 Acid Ward,1,Self,Material,Sorcerer,624236		
-Animate Tree,3,Touch,Material,Druid,624242		
+Animate Tree,3,Touch,Material,Druid,624242
+Incendiary Cloud,1, 150,Verbal,Wizard,624084	
 Barrier,1,60,Verbal,Artificer,624244	
 Beluud's Boiling Bubble,1,90,Material,Wizard,624250		
 Skywrite,1,Sight,Somatic,Bard,624367	
-Boulder Shot,1,120,Verbal,Warlock,624507	
+Boulder Shot,1,120,Verbal,Warlock,624507
+Gate,1, 60 ,Somatic,Sorcerer,624085	
 Burrow,1,Self,Material,Ranger,624508	
 Caldera,1,90,Somatic,Druid,624509		
 Cold Snap,1,60,Somatic,Wizard,624515
