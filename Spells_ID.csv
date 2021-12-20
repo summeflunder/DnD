@@ -1,41 +1,41 @@
-id,name
-624084,Incendiary Cloud		
-624085,Gate		
-624087,Chill Touch 
-624089,Reshape Destiny		
-624090,Spiritual Weapon		
-624093,Chain Lightning		
-624094,Contingency		
-624095,Blade Barrier				
-624097,Cone of Cold		
-624232,Acid Cloud	
-624236,Acid Ward		
-624242,Animate Tree		
-624244,Barrier	
-624250,Beluud's Boiling Bubble	
-624254,Blazing Thunderbolt Strike		
-624367,Skywrite	
-624507,Boulder Shot	
-624508,Burrow	
-624509,Caldera	
-624511,Cannon Blast		
-624515,Cold Snap	
-624516,Combustion		
-624524,Cyclone		
-624526,Cyclone Strike		
-624528,Dark Lagoon		
-624516,Dive	
-624614,Earth Stomp	
-624615,Earth Whelm	
-624620,Electric Interdiction		
-624622,Elemental Chains		
-624623,Elemental Meteor	
-624624,Elemental Step	
-625252,Sleet Storm	
-625258,Slow	
-625261,Snare	
-625264,Snilloc's Snowball Swarm	
-625266,Soul Cage	
-626366,Spare the Dying	
-626377,Speak With Animals	
-626380,Speak With Dead
+id,name,type
+624084,Incendiary Cloud,Conjuration		
+624085,Gate,Conjuration		
+624087,Chill Touch,Necromancy 
+624089,Reshape Destiny,Necromancy 		
+624090,Spiritual Weapon,Evocation		
+624093,Chain Lightning,Evocation		
+624094,Contingency,Evocation		
+624095,Blade Barrier,Evocation				
+624097,Cone of Cold,Evocation		
+624232,Acid Cloud,Conjuration	
+624236,Acid Ward,Conjuration		
+624242,Animate Tree,Transmutation		
+624244,Barrier,Abjuration	
+624250,Beluud's Boiling Bubble,Conjuration	
+624254,Blazing Thunderbolt Strike,Evocation		
+624367,Skywrite,Abjuration	
+624507,Boulder Shot,Transmutation	
+624508,Burrow,Transmutation	
+624509,Caldera,Transmutation	
+624511,Cannon Blast,Evocation		
+624515,Cold Snap,Evocation	
+624516,Combustion,Transmutation		
+624524,Cyclone,Transmutation
+624526,Cyclone Strike,Transmutation	
+624528,Dark Lagoon,Conjuration		
+624516,Dive,Abjuration
+624614,Earth Stomp,Evocation	
+624615,Earth Whelm,	
+624620,Electric Interdiction,Transmutation		
+624622,Elemental Chains,Evocation		
+624623,Elemental Meteor,Conjuration	
+624624,Elemental Step,Conjuration	
+625252,Sleet Storm,Conjuration	
+625258,Slow,Transmutation	
+625261,Snare,Abjuration	
+625264,Snilloc's Snowball Swarm,Evocation	
+625266,Soul Cage,Necromancy	
+626366,Spare the Dying,Necromancy	
+626377,Speak With Animals,Divination	
+626380,Speak With Dead,Necromancy
