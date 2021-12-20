@@ -25,7 +25,7 @@ Spare the Dying,1,Touch,Somatic,Cleric,626366
 Blade Barrier,1,90,Verbal,Cleric,624095				
 Cone of Cold,1,60,Somatic,Artificer,624097		
 Acid Cloud,1,90,Verbal,Druid,624232	
-Reshape Destiny,1,Verbal,Bard,624089	
+Reshape Destiny,1,20,Verbal,Bard,624089	
 Cannon Blast,1,60,Verbal,Warlock,624511			
 Dark Lagoon,4,150,Material,Warlock,624528		
 Dive,1,Touch,Somatic,Artificer,624516	
