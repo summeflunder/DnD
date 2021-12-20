@@ -1,0 +1,41 @@
+name,casting time(action),range(feet),components,class,id
+Incendiary Cloud,1, 150,Verbal,Wizard,624084		
+Gate,1, 60 ,Somatic,Sorcerer,624084	
+Spiritual Weapon,2,60,Verbal,Cleric,624090
+Blazing Thunderbolt Strike,2,Self,Verbal,Paladin,624254		
+Acid Ward,1,Self,Material,Sorcerer,624236		
+Animate Tree,3,Touch,Material,Druid,624242		
+Barrier,1,60,Verbal,Artificer,624244	
+Beluud's Boiling Bubble,1,90,Material,Wizard,624250		
+Skywrite,1,Sight,Somatic,Bard,624367	
+Boulder Shot,1,120,Verbal,Warlock,624507	
+Burrow,1,Self,Material,Ranger,624508	
+Caldera,1,90,Somatic,Druid,624509		
+Cold Snap,1,60,Somatic,Wizard,624515
+Combustion,1,Self,Somatic,Druid,624516		
+Cyclone,3,120,Verbal,Sorcerer,624524	
+Cyclone Strike,1,10,Material,Ranger,624526
+Chill Touch,1, 120,,Verbal,Warlock,624087
+Chain Lightning,1,150,Somatic,Wizard,624093		
+Contingency,4,Self,Verbal,Wizard,624094	
+Snare,2,Touch,Material,Ranger,625261
+Snilloc's Snowball Swarm,2,90,Verbal,Sorcerer,625264	
+Soul Cage,1,60,Somatic,Warlock,625266
+Spare the Dying,1,Touch,Somatic,Cleric,626366		
+Blade Barrier,1,90,Verbal,Cleric,624095				
+Cone of Cold,1,60,Somatic,Artificer,624097		
+Acid Cloud,1,90,Verbal,Druid,624232	
+Reshape Destiny,1,Verbal,Bard,624089	
+Cannon Blast,1,60,Verbal,Warlock,624511			
+Dark Lagoon,4,150,Material,Warlock,624528		
+Dive,1,Touch,Somatic,Artificer,624516	
+Earth Stomp,1,5,Somatic,Wizard,624614	
+Earth Whelm,3,1000,Material,Druid,624615	
+Speak With Animals,2,Self,Verbal,Druid,626377	
+Speak With Dead,1,10,Verbal,Cleric,626380
+Elemental Chains,1,120,Material,Warlock,624622		
+Elemental Meteor,2,500,Somatic,Wizard,624623	
+Elemental Step,3,10000,Verbal,Sorcerer,624624
+Electric Interdiction,5,60,Verbal,Sorcerer,624620	
+Sleet Storm,1,150,Material,Fathomless Warlock,625252	
+Slow,1,120,Verbal,Bard,625258	
