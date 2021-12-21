@@ -1,41 +1,7 @@
 id,name,type
 624084,Incendiary Cloud,Conjuration		
-624085,Gate,Conjuration		
+624085,Gate,Abjuration		
 624087,Chill Touch,Necromancy 
-624089,Reshape Destiny,Necromancy 		
+624089,Reshape Destiny,Transmutation 		
 624090,Spiritual Weapon,Evocation		
-624093,Chain Lightning,Evocation		
-624094,Contingency,Evocation		
-624095,Blade Barrier,Evocation				
-624097,Cone of Cold,Evocation		
-624232,Acid Cloud,Conjuration	
-624236,Acid Ward,Conjuration		
-624242,Animate Tree,Transmutation		
-624244,Barrier,Abjuration	
-624250,Beluud's Boiling Bubble,Conjuration	
-624254,Blazing Thunderbolt Strike,Evocation		
-624367,Skywrite,Abjuration	
-624507,Boulder Shot,Transmutation	
-624508,Burrow,Transmutation	
-624509,Caldera,Transmutation	
-624511,Cannon Blast,Evocation		
-624515,Cold Snap,Evocation	
-624516,Combustion,Transmutation		
-624524,Cyclone,Transmutation
-624526,Cyclone Strike,Transmutation	
-624528,Dark Lagoon,Conjuration		
-624516,Dive,Abjuration
-624614,Earth Stomp,Evocation	
-624615,Earth Whelm,Transmutation	
-624620,Electric Interdiction,Transmutation		
-624622,Elemental Chains,Evocation		
-624623,Elemental Meteor,Conjuration	
-624624,Elemental Step,Conjuration	
-625252,Sleet Storm,Conjuration	
-625258,Slow,Transmutation	
-625261,Snare,Abjuration	
-625264,Snilloc's Snowball Swarm,Evocation	
-625266,Soul Cage,Necromancy	
-626366,Spare the Dying,Necromancy	
-626377,Speak With Animals,Divination	
-626380,Speak With Dead,Necromancy
+624093,Chain Lightning,Divine		
