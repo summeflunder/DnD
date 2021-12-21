@@ -1,6 +1,6 @@
 name,height,kind,attitude,EP,Weakness
-Zoog,tiny,Aberration,chaotic bad,10,1		
-Lantern Beetle,tiny,animal,unprincipled,10,2	
-Mountain Nymph,medium,fairy,neutral,10,3
-Eagle,small,animal,unprincipled,15,4
-War Ostrich,big,animal,chaotic neutral,120,5
+Zoog,tiny,Aberration,chaotic bad,10,L	
+Lantern Beetle,tiny,animal,unprincipled,10,SP	
+Mountain Nymph,medium,fairy,neutral,10,O
+Eagle,small,animal,unprincipled,15,N
+War Ostrich,big,animal,chaotic neutral,120,NM
