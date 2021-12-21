@@ -1,7 +1,16 @@
-Spell_id,"Spell_name"
-624084,"SP"
-624085,"A"
-624087,"L"
-624089,"N"
-624090,"O"
-624093,"SL"
+Spell_id,"Spell_name","type"
+624094,Contingency,“Evocation“		
+624095,Blade Barrier,“Evocation„			
+624097,Cone of Cold,“Evocation“		
+624232,Acid Cloud,“Conjuration“	
+624236,Acid Ward,“Conjuration“		
+624242,Animate Tree,“Transmutation“		
+624244,Barrier,“Abjuration“	
+624250,Beluud's Boiling Bubble,“Conjuration“	
+624254,Blazing Thunderbolt Strike,“Evocation“		
+624367,Skywrite,“Abjuration“	
+624507,Boulder Shot,“Transmutation“	
+624508,Burrow,“Transmutation“	
+624509,Caldera,“Transmutation“	
+624511,Cannon Blast,“Evocation“	
+
