@@ -1,7 +1,7 @@
-id,name,type
-624084,Incendiary Cloud,Conjuration		
-624085,Gate,Abjuration		
-624087,Chill Touch,Necromancy 
-624089,Reshape Destiny,Transmutation 		
-624090,Spiritual Weapon,Evocation		
-624093,Chain Lightning,Divine		
+Spell_id,Spell_name,
+624084,Incendiary Cloud		
+624085,Gate	
+624087,Chill Touch 
+624089,Reshape Destiny 		
+624090,Spiritual Weapon
+624093,Chain Lightning		
